@@ -7,6 +7,10 @@
 
 import Foundation
 
-// print("Hello, World!")
-
+print("variable.swift")
 variable()
+
+print("\nfunction.swift")
+greetings()
+// 인자를 받을 때는 변수이름을 명시해야됨
+print(add(a: 10, b: 20))
